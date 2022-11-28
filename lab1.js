@@ -7,11 +7,11 @@ let cargaMaxima = 5000;
 let cargaMinima = 1000;
 
 let frota1 = 'oito eixos';
-let frota2 = 'doze eixos';-
+let frota2 = 'doze eixos';
 
 //Back-End
-let cargaSomada = carga1 + carga2 + carga3;
 
+let cargaSomada = carga1 + carga2 + carga3;
 let mediaDasCargas = (cargaSomada) / 2;
 
 const cargaEstruturada = () => {

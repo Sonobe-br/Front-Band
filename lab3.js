@@ -12,10 +12,9 @@ const nomeCompleto = () => {
 }
 nomeCompleto ();
 
-if (concatenar === "") {
+if (concatenar === (concatenar)) {
 
-    console.log("servidor rodando!")
-    
+    console.log("servidor rodando!") 
     
 } else {
     
